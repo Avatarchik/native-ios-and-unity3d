@@ -984,6 +984,7 @@
 					CoreMotion,
 					"-weak-lSystem",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = co.vusr.template;
 				PRODUCT_NAME = unityNative;
 				PROVISIONING_PROFILE = "";
 				SDKROOT = iphoneos;
@@ -1047,6 +1048,7 @@
 					CoreMotion,
 					"-weak-lSystem",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = co.vusr.template;
 				PRODUCT_NAME = unityNative;
 				PROVISIONING_PROFILE = "";
 				SDKROOT = iphoneos;
@@ -1236,6 +1238,7 @@
 					CoreMotion,
 					"-weak-lSystem",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = co.vusr.template;
 				PRODUCT_NAME = unityNative;
 				PROVISIONING_PROFILE = "";
 				SDKROOT = iphoneos;
@@ -1368,6 +1371,7 @@
 					CoreMotion,
 					"-weak-lSystem",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = co.vusr.template;
 				PRODUCT_NAME = unityNative;
 				PROVISIONING_PROFILE = "";
 				SDKROOT = iphoneos;
